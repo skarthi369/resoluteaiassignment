@@ -1,0 +1,62 @@
+{
+    "PO Number": "123456/22",
+    "PO Date": "22ND SEPTEMBER, 2022",
+    "PO Expiry": "29/09/2022",
+    "PO Amount": "3604.35",
+    "Account Store": "FASHION QUEEN",
+    "Account Name": "FASHION ITEMS INC    Attn. Sam Martin (Chief of Finance)",
+    "Account Delivery Address": "108 Waldorf Street, Coventry, 25448 IL",
+    "Account Billing Address": "211 Arrow Bay, Westminster, 21656 Los Angeles",
+    "Account GST": "",
+    "Account Client Number": "(000) 1234 56789",
+    "List Items": [
+        {
+            "Sr. No.": "1",
+            "Description": "Waterproof French overcoat",
+            "A": "M",
+            "B": "BLACK",
+            "C": "",
+            "Qty": "1",
+            "MRP": "995",
+            "Unit Cost": "995",
+            "Disc %": "10%",
+            "Total  Value": "995"
+        },
+        {
+            "Sr. No.": "2",
+            "Description": "Signature perfume",
+            "A": "*",
+            "B": "*",
+            "C": "",
+            "Qty": "2",
+            "MRP": "205",
+            "Unit Cost": "205",
+            "Disc %": "10%",
+            "Total  Value": "410"
+        },
+        {
+            "Sr. No.": "3",
+            "Description": "Classic blazer \"mindsweeper\"",
+            "A": "L",
+            "B": "RED/BLACK",
+            "C": "",
+            "Qty": "1",
+            "MRP": "1080",
+            "Unit Cost": "1080",
+            "Disc %": "10%",
+            "Total  Value": "1080"
+        },
+        {
+            "Sr. No.": "4",
+            "Description": "Poshmark black dress",
+            "A": "M",
+            "B": "BLACK",
+            "C": "",
+            "Qty": "1",
+            "MRP": "1080",
+            "Unit Cost": "1080",
+            "Disc %": "10%",
+            "Total  Value": "1080"
+        }
+    ]
+}
